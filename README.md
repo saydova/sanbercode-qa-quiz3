@@ -1,5 +1,4 @@
 # sanbercode-qa-quiz3
-# QUIZ 3 – Cypress Automation Testing
 
 ## Project Name
 OrangeHRM – Login Feature Automation Test
@@ -52,16 +51,19 @@ README.md
 ## ▶️ How To Run
 
 Install dependencies:
+```
 npm install
+```
 
 Run Cypress using UI:
+```
 npx cypress open
+```
 
 Run Cypress in headless mode:
+```
 npx cypress run
-
-✅ Test Result
-All test cases executed successfully and PASSED ✅
+```
 
 🔗 GitHub Repository Link
 https://github.com/saydova/sanbercode-qa-quiz3
