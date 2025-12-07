@@ -67,3 +67,6 @@ npx cypress run
 
 🔗 GitHub Repository Link
 https://github.com/saydova/sanbercode-qa-quiz3
+
+🔗 Scenario Link
+https://docs.google.com/spreadsheets/d/1d76YxYhB6nfP_yJ70b5ciFa5phi2A757VbFM3dwLXZE/edit?usp=sharing
