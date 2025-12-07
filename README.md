@@ -28,6 +28,7 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 ---
 
 ## 📂 Project Structure
+```
 cypress/
 ├── e2e/
 │ └── login/
@@ -43,6 +44,7 @@ cypress/
 cypress.config.js
 package.json
 README.md
+```
 
 
 ---
