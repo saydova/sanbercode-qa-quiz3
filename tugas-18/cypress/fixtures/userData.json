@@ -1,0 +1,9 @@
+{
+  "createUser": { "name": "John Doe", "job": "Developer" },
+  "updateUser": { "name": "Jane Doe", "job": "Designer" },
+  "patchUser": { "job": "Senior Developer" },
+  "registerUser": { "email": "eve.holt@reqres.in", "password": "pistol" },
+  "registerUserNoPass": { "email": "eve.holt@reqres.in" },
+  "loginUser": { "email": "eve.holt@reqres.in", "password": "cityslicka" },
+  "loginUserNoPass": { "email": "eve.holt@reqres.in" }
+}
