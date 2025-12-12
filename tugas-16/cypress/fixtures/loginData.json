@@ -1,0 +1,15 @@
+{
+    "validUser": {
+      "username": "Admin",
+      "password": "admin123"
+    },
+    "invalidUser": {
+      "username": "invalid",
+      "password": "wrongpass"
+    },
+    "symbolsUsername": ")#()!@($UD!J)@::>:>:@O__ or ' OR 1=1 --",
+    "emojiUsername": "😎😕🥺🫢",
+    "spacedUsername": "A dm in",
+    "longUsername": "loremipsumdolorsitametconsecteturadipiscingelitphasellusfermentumgravidaquamutaliquetduisvehiculaullamcorpermagnasitamettristiqueintegerimperdiettortorquisvelitcursusdonecportaarcutemporsedviverrametusx"
+  }
+  
